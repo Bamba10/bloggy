@@ -1,0 +1,14 @@
+:root { font: 20px/2.4"Roboto", sans-serif;} /* or html */
+
+body,
+body * {
+  margin: unset;
+  padding:   unset;
+  box-sizing:  unset;
+  padding:    unset;
+  font-size: unset;
+  color: unset;
+  text-decoration: unset;
+}
+
+figure * { display: block;}
